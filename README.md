@@ -7,4 +7,5 @@ appealing user interface.
 Implemented a Trie data structure for highly optimized search
 and prefix matching, resulting in accurate and fast suggestions
 that enhance user experience.
-![](AutoSuggest_Thumbnail.png)
+
+![](/images/AutoSuggest_Thumbnail%20(1).png)
