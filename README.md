@@ -8,4 +8,4 @@ Implemented a Trie data structure for highly optimized search
 and prefix matching, resulting in accurate and fast suggestions
 that enhance user experience.
 
-![](/images/AutoSuggest_Thumbnail%20(1).png)
+![](AutoSuggest_Thumbnail%20(1).png)
